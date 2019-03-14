@@ -31,3 +31,25 @@ int main() {
 	return 0;
 
 }
+
+/*for (i = 1; i < n; i++) {
+		temp = arr[i];
+		for (j = i - 1; j >= 0 && arr[j] > temp; j--) {
+			arr[j + 1] = arr[j];
+			count++;
+		}
+		arr[j + 1] = temp;
+	}
+	
+=============================================both are same.
+
+	for (i = 1; i < n; i++) {
+		temp = arr[i];
+		for (j = i - 1; j >= 0; j--) {
+			if (arr[j] > temp) {
+				arr[j + 1] = arr[j];
+				count++;
+			}else break;	
+		}
+		arr[j + 1] = temp;
+	}*/
