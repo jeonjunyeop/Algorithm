@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+void hanoi(int n, int a, int b, int c) {
+	if (n <= 1) {
+		//cout << n << " : " << a << " -> " << c << endl;
+		printf("%d : %d -> %d\n", n, a, c);
+	}
+	else {
+		hanoi(n - 1, a, c, b);
+		//cout << n << " : " << a << " -> " << c << endl;
+		printf("%d : %d -> %d\n", n-1, a, c);
+		hanoi(n - 1, b, a, c);
+	}
+}
+
+int main() {
+	int num;
+	//cin >> num;
+	scanf("%d", &num);
+	hanoi(num, 1, 2, 3);
+	return 0;
+}
