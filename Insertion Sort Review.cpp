@@ -27,9 +27,7 @@
 //}***wrong answer***
 
 //#include <iostream>
-//
 //using namespace std;
-//
 //int main() {
 //	int i, j, n;
 //	int arr[100];
