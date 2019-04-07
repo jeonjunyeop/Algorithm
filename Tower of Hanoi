@@ -9,7 +9,7 @@ void hanoi(int n, int a, int b, int c) {
 	else {
 		hanoi(n - 1, a, c, b);
 		//cout << n << " : " << a << " -> " << c << endl;
-		printf("%d : %d -> %d\n", n-1, a, c);
+		printf("%d : %d -> %d\n", n, a, c);
 		hanoi(n - 1, b, a, c);
 	}
 }
