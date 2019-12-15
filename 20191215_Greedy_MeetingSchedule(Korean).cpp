@@ -4,7 +4,7 @@
 //
 //  Created by Junyeop Jeon on 12/14/19.
 //  Copyright © 2019 Junyeop Jeon. All rights reserved.
-////
+////회의실 배정
 #include <iostream>
 #include <vector>
 #include <algorithm>
