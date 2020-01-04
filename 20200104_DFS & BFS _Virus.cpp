@@ -1,4 +1,4 @@
-// Virus 바이러스_ 백준 2606
+//  Virus 바이러스_ 백준 2606
 //  20200104_DFS & BFS _Virus.cpp
 //  algorithm tests
 //
