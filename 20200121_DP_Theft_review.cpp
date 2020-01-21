@@ -4,7 +4,6 @@
 //
 //  Created by Junyeop Jeon on 1/21/20.
 //  Copyright © 2020 Junyeop Jeon. All rights reserved.
-//
 
 #include <vector>
 #include <unordered_set>
