@@ -1,4 +1,4 @@
-// SLIKAR 정올1082화염에서탈출
+//  SLIKAR 정올1082화염에서탈출
 //  20200317_BFS_SLIKAR.cpp
 //  algorithm tests
 //
