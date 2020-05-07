@@ -1,4 +1,4 @@
-// 경사로 백준14890
+//  경사로 백준14890
 //  20200507_SIM_Slope.cpp
 //  algorithm tests
 //
